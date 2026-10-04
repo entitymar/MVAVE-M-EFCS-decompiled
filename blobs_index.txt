@@ -1,0 +1,83 @@
+assets	data/flutter_assets/lib/resources/bin/blackbox/ampSim_am3_ampCab.bin	245760	b'AM2\x00'	AM2 | 1US Clean 1 | =MeS | =-.3= | `E=z
+assets	data/flutter_assets/lib/resources/bin/blackbox/ampSim_am3_preset.bin	7370	b'X\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/blackbox/baioXl_am3_ampCab.bin	245760	b'AM2\x00'	AM2 | 1CleanTW | =MeS | =-.3= | `E=z
+assets	data/flutter_assets/lib/resources/bin/blackbox/baioXl_am3_preset.bin	7370	b']\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/blackbox/blackbox_am3_ampCab.bin	245760	b'AM2\x00'	AM2 | 1UWE-Twins | =MeS | =-.3= | `E=z
+assets	data/flutter_assets/lib/resources/bin/blackbox/blackbox_am3_preset.bin	7370	b'P\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/blackbox/blackbox_am4_ampCab.bin	245760	b'AM4\x00'	AM4 | 1J900_CL | @A: | ;\h | ;=w
+assets	data/flutter_assets/lib/resources/bin/blackbox/blackbox_am4_preset.bin	7370	b'U\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/blackbox/blackbox_choptones_ampCab.bin	245760	b'AM3\x00'	AM3 | 1CT-Bogie2G6L | ddP. | &=n | z"=;
+assets	data/flutter_assets/lib/resources/bin/blackbox/blackbox_choptones_preset.bin	7370	b'\\\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/blackbox/jamKing_am3_ampCab.bin	245760	b'AM2\x00'	AM2 | 1USDeluxClean | =MeS | =-.3= | `E=z
+assets	data/flutter_assets/lib/resources/bin/blackbox/moyubox_am3_ampCab.bin	245760	b'AM3\x00'	AM3 | 88_Mes_196 | dxF( | =AA | ez;z
+assets	data/flutter_assets/lib/resources/bin/blackbox/moyubox_am3_preset.bin	7370	b'^\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/hush/hush_am3_ampCab.bin	172032	b'CAB\x00'	CAB | Type GA | {|{
+assets	data/flutter_assets/lib/resources/bin/hush/hush_am3_preset.bin	506	b'\xa5Z\x00\x00'	
+assets	data/flutter_assets/lib/resources/bin/ke1/ke1_am3_ampCab.bin	245760	b'AM2\x00'	AM2 | UWE-Twins | =MeS | =-.3= | `E=z
+assets	data/flutter_assets/lib/resources/bin/ke1/ke1_am3_preset.bin	3466	b'P\x00\x00\x01'	PATCHEND
+assets	data/flutter_assets/lib/resources/bin/kptPro/kptPro_am3_ampCab.bin	1228800	b'AM2\x00'	AM2 | 1CL-UweTwins | =MeS | =-.3= | `E=z
+assets	data/flutter_assets/lib/resources/bin/kptPro/kptPro_am3_preset.bin	17050	b'<\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/kptPro/kptPro_am4_ampCab.bin	1228800	b'AM4\x00'	AM4 | 1J120_CL | t<: | 0=5 | A=%'
+assets	data/flutter_assets/lib/resources/bin/kptPro/kptPro_am4_preset.bin	17050	b'<\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/kptPro/kptPro_drum.bin	3145728	b'drum'	drum | 4321 | Hi-Hat Foot clo | Snare Edge |  clo
+assets	data/flutter_assets/lib/resources/bin/kptPro/kptPro_midiDrum.bin	131072	b'drum'	drum< | 1_1-4 | MThd | MTrk | 1-4
+assets	data/flutter_assets/lib/resources/bin/mk20/mk20_am3_ampCab.bin	2785280	b'AM3\x00'	AM3 | 1OD-ChieffBD2 | dxF2 |  AQ6 | ;z+
+assets	data/flutter_assets/lib/resources/bin/mk20/mk20_am3_preset.bin	61808	b'FUNK'	FUNK     DIO     | Blus Riff     | Blus SOLO     | Lenny         | Wild  Hearts 
+assets	data/flutter_assets/lib/resources/bin/mk20/mk20_am4_ampCab.bin	2859008	b'AM4\x00'	AM4 | 1BLUES_OD |  AC | ":R | NB:l
+assets	data/flutter_assets/lib/resources/bin/mk20/mk20_am4_preset.bin	61808	b'FEIT'	FEITIANDE-CR | FEITIANDE-OD | FEITIANDE-OD2 | FEITIANDE-CL | FEITIANDE-CL2
+assets	data/flutter_assets/lib/resources/bin/mk20/mk20_drum.bin	3145728	b'drum'	drum | Hi-Hat Foot clo | Snare Edge |  clo | Kick
+assets	data/flutter_assets/lib/resources/bin/mk20/mk20_midiDrum.bin	131072	b'drum'	drum | 1-4 | MThd | MTrk | 8x<
+assets	data/flutter_assets/lib/resources/bin/mk20/moyuboxPlus_am3_ampCab.bin	2859008	b'AM3\x00'	AM3 | 1OD-ChieffBD2 | dxF2 |  AQ6 | ;z+
+assets	data/flutter_assets/lib/resources/bin/mk20/moyuboxPlus_am3_preset.bin	61808	b'ACG '	ACG Rock 1 | ACG Rock 2 | ACG Rock 3 | ACG Crunch 1 | ACG Crunch 2
+assets	data/flutter_assets/lib/resources/bin/mk20/urm500_am3_ampCab.bin	2859008	b'AM4\x00'	AM4 | 1BLUES_OD |  AC | ":R | NB:l
+assets	data/flutter_assets/lib/resources/bin/mk20/urm500_am3_preset.bin	61808	b'80s '	80s Clean | Slush | Smooth Neck  | Purple Sky  | Megallica 
+assets	data/flutter_assets/lib/resources/bin/mk20/urm500_am4_preset.bin	61808	b'80s '	80s Clean | Slush | Smooth Neck  | Purple Sky  | Megallica 
+assets	data/flutter_assets/lib/resources/bin/mk300/mk300_am3_ampCab.bin	2785280	b'AM2\x00'	AM2 | 1OD-BDTWOOW | d}K( | <X` | o*<
+assets	data/flutter_assets/lib/resources/bin/mk300/mk300_am3_preset.bin	71688	b'UK C'	UK Clean  | UK OD  | DS Soso  | DS Solo  | F Rad Clean 
+assets	data/flutter_assets/lib/resources/bin/mk300/mk300_am4_ampCab.bin	2785280	b'AM4\x00'	AM4 | 1BLUES_OD |  AC | ":R | NB:l
+assets	data/flutter_assets/lib/resources/bin/mk300/mk300_am4_preset.bin	71688	b'JM-C'	JM-CL | EJM-OD | EJM-DS | EJM-SOLO | EM-VAVE-CL
+assets	data/flutter_assets/lib/resources/bin/mk300/mk300_drum.bin	3145728	b'drum'	drum | Hi-Hat Foot clo | Snare Edge |  clo | Kick
+assets	data/flutter_assets/lib/resources/bin/mk300/mk300_midiDrum.bin	131072	b'drum'	drum | 1-4 | MThd | MTrk | 8x<
+assets	data/flutter_assets/lib/resources/bin/mk300/urm1000_am3_preset.bin	71688	b'80s '	80s Clean  | Slush  | Smooth Neck  | Purple Sky   | Megallica 
+assets	data/flutter_assets/lib/resources/bin/sk17/microbox_am4_ampCab.bin	245760	b'AM4\x00'	AM4 | 1J900_CL | @A: | ;\h | ;=w
+assets	data/flutter_assets/lib/resources/bin/sk17/pocket-amp_am3_ampCab.bin	245760	b'AM3\x00'	AM3 | 1USClean1 | r#< | ks=g+ | 2*=
+assets	data/flutter_assets/lib/resources/bin/sk17/sk17_am3_ampCab.bin	245760	b'AM3\x00'	AM3 | 1CL-BogUblue | r#< | ks=g+ | 2*=
+assets	data/flutter_assets/lib/resources/bin/sk17/sk17_am3_preset.bin	7370	b'<\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/sk17/sk17_am4_ampCab.bin	245760	b'AM4\x00'	AM4 | 1J900_CL | @A: | ;\h | ;=w
+assets	data/flutter_assets/lib/resources/bin/sk17/sk17_am4_preset.bin	7370	b'<\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/sk17/sk17_am4_speaker_mode_preset.bin	7370	b'<\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/sk17/urmTourFx_am4_preset.bin	7370	b'\x1e\x00\x00\x01'	
+assets	data/flutter_assets/lib/resources/bin/sp100/sp100_am4_ampCab.bin	221184	b'AM4\x00'	AM4 | 1J120_CL | t<: | 0=5 | A=%'
+assets	data/flutter_assets/lib/resources/bin/sp100/sp100v2_am4_ampCab.bin	221184	b'AM4\x00'	AM4 | 1J120_CL | dx<& | t<: | 0=5
+assets	data/flutter_assets/lib/resources/bin/tankB/stationB_am3_ampCab.bin	212992	b'AM2\x00'	AM2 | @gE | d=8 | YE= | i=Z
+assets	data/flutter_assets/lib/resources/bin/tankB/stationB_am3_preset.bin	758	b'\xa5Z\x01\x01'	w;O" | O6O, | Z7? | NK@ | x0c
+assets	data/flutter_assets/lib/resources/bin/tankB/tankB_am3_ampCab.bin	212992	b'AM2\x00'	AM2 | @gE | d=8 | YE= | i=Z
+assets	data/flutter_assets/lib/resources/bin/tankB/tankB_am3_preset.bin	758	b'\xa5Z\x01\x01'	'EAPg | +S6Iw | "Rw | G;d | 7=8Cf
+assets	data/flutter_assets/lib/resources/bin/tankB/tankB_am4_ampCab.bin	212992	b'AM4\x00'	AM4 | 2q8 | ]O+< | ,"=G+ | l=,
+assets	data/flutter_assets/lib/resources/bin/tankB/tankB_am4_preset.bin	758	b'\xa5Z\x01\x01'	:>==8 | `vV&d | `vV&K | "%K | E=8Dx
+assets	data/flutter_assets/lib/resources/bin/tankG/stationG_am3_ampCab.bin	212992	b'AM2\x00'	AM2 | =MeS | =-.3= | `E=z | :=U
+assets	data/flutter_assets/lib/resources/bin/tankG/stationG_am3_preset.bin	758	b'\xa5Z\x00\x00'	c???d | JO2# | rJO6- | rJO1-zb | U;J,<
+assets	data/flutter_assets/lib/resources/bin/tankG/tankG_am3_ampCab.bin	212992	b'AM2\x00'	AM2 | =MeS | =-.3= | `E=z | :=U
+assets	data/flutter_assets/lib/resources/bin/tankG/tankG_am3_preset.bin	758	b'\xa5Z\x01\x00'	c???d | N7BM< | KKF(< | ]+XSA | P???
+assets	data/flutter_assets/lib/resources/bin/tankG/tankG_am4_ampCab.bin	212992	b'AM4\x00'	AM4 | 1J120_CL | t<: | 0=5 | A=%'
+assets	data/flutter_assets/lib/resources/bin/tankG/tankG_am4_preset.bin	758	b'\xa5Z\x01\x00'	b9CTL | GENUL | RI@BL | YWK4K | S+WL\
+assets	data/flutter_assets/lib/resources/bin/tankMini/tankMini_am3_ampCab.bin	245760	b'AM2\x00'	AM2 | UWE-Twins | =MeS | =-.3= | `E=z
+assets	data/flutter_assets/lib/resources/bin/tankMini/tankMini_am3_preset.bin	1942	b'F\x00\x00\x01'	PATCHEND
+assets	data/flutter_assets/lib/resources/bin/tankMini/tankMini_am4_ampCab.bin	245760	b'AM4\x00'	AM4 | 1J120_CL | t<: | 0=5 | A=%'
+assets	data/flutter_assets/lib/resources/bin/tankMini/tankMini_am4_preset.bin	1942	b'Q\x00\x00\x01'	PATCHEND
+assets	data/flutter_assets/lib/resources/bin/tankPro/mX300D_am4_ampCab.bin	2285568	b'AM4\x00'	AM4 | CT-D805F-OD |  A* | =%< | <TpR<Z
+assets	data/flutter_assets/lib/resources/bin/tankPro/mX300D_am4_preset.bin	46568	b'CT-L'	CT-LightCln | CT-EdgyTone | CT-RockingOut | CT-Metal Dive | CT-CrispyCln
+assets	data/flutter_assets/lib/resources/bin/tankPro/tankPro_am4_ampCab.bin	2285568	b'AM4\x00'	AM4 | CT-D805F-OD |  A* | =%< | <TpR<Z
+assets	data/flutter_assets/lib/resources/bin/tankPro/tankPro_am4_preset.bin	46568	b'CT-L'	CT-LightCln | CT-EdgyTone | CT-RockingOut | CT-Metal Dive | CT-CrispyCln
+assets	data/flutter_assets/lib/resources/bin/tankPro/tankPro_drum.bin	3145728	b'drum'	drum | HH-Pedal chick | Snare Center | Kick |  Center
+assets	data/flutter_assets/lib/resources/bin/tankPro/tankPro_midiDrum.bin	131072	b'drum'	drumd | 1Met1-4 | MThd | MTrk | 1_1-4
+ampFile	ampFile/Dark Rose.am4data	7868	b'AM4\x00'	AM4 | 188542 | dd< | L=R | <{I
+ampFile	ampFile/NDSP Tim Henson X 4th Position Strat.am3Data	6204	b'AM3\x00'	AM3 | 31457 | dd< | Y$< | "<vKA=CpV
+ampFile	ampFile/NDSP Tim Henson X Default Angel.am3Data	6204	b'AM3\x00'	AM3 | 31460 | dd< | <_& | <Ay
+ampFile	ampFile/NDSP Tim Henson X Default Fire.am3Data	6204	b'AM3\x00'	AM3 | 31463 | dd< | mgS=Lva | <ds-<
+ampFile	ampFile/NDSP Tim Henson X Default Rose.am3Data	6204	b'AM3\x00'	AM3 | 31465 | dd< | ~[< | +;E
+ampFile	ampFile/NOLLY 11.am4Data	7868	b'AM4\x00'	AM4 | 160962 | dd< | ;ma | ]<(
+ampFile	ampFile/PerfSoul.am4Data	7868	b'AM4\x00'	AM4 | 155521 | dd< | ;;^ | Z];
+ampFile	ampFile/Pink Fire.am4data	7868	b'AM4\x00'	AM4 | 188543 | dd< | B;Yd | E<(;4
+ampFile	ampFile/White Angel.am4data	7868	b'AM4\x00'	AM4 | 188544 | dd< | c\= | KdF=*>.
+ampFile	ampFile/block-letter Peavey 5150 all on noon +ts GAIN 0 TONE 5 level 10.am4Data	7868	b'AM4\x00'	AM4 | 165315 | dd< | o_?; | K`s

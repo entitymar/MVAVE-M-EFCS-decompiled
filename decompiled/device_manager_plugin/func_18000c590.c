@@ -1,0 +1,12 @@
+// _cexit @ 18000c590
+
+void __cdecl _cexit(void)
+
+{
+                    /* WARNING: Could not recover jumptable at 0x00018000c590. Too many branches */
+                    /* WARNING: Treating indirect jump as call */
+  _cexit();
+  return;
+}
+
+

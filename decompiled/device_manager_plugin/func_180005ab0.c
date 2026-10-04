@@ -1,0 +1,33 @@
+// FUN_180005ab0 @ 180005ab0
+
+uint FUN_180005ab0(undefined8 param_1,undefined8 *param_2,undefined8 *param_3)
+
+{
+  ulonglong uVar1;
+  ulonglong uVar2;
+  uint uVar3;
+  ulonglong _Size;
+  
+  uVar1 = param_3[2];
+  if (0xf < (ulonglong)param_3[3]) {
+    param_3 = (undefined8 *)*param_3;
+  }
+  uVar2 = param_2[2];
+  if (0xf < (ulonglong)param_2[3]) {
+    param_2 = (undefined8 *)*param_2;
+  }
+  _Size = uVar2;
+  if (uVar1 < uVar2) {
+    _Size = uVar1;
+  }
+  uVar3 = memcmp(param_2,param_3,_Size);
+  if (uVar3 == 0) {
+    if (uVar2 < uVar1) {
+      return 1;
+    }
+    uVar3 = 0;
+  }
+  return uVar3 >> 0x1f;
+}
+
+

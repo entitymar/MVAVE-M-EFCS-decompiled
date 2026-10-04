@@ -1,0 +1,10 @@
+// FUN_180003a34 @ 180003a34
+
+void FUN_180003a34(void)
+
+{
+  FUN_1800041a0((PSLIST_HEADER)&DAT_180025b20);
+  return;
+}
+
+
